@@ -1,0 +1,1 @@
+const service_vdvj = <T>(args: T): T => { return args; };
